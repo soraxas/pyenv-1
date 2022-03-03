@@ -82,6 +82,7 @@ xzgrep
 xzless
 xzmore
 reset
+gettext.sh
 # --- start exclusions from coreutils
 [
 b2sum
